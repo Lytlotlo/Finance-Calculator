@@ -1,4 +1,4 @@
-# Finance calculator.
+# Finance Calculator
 
 This program is a finance calculator. It allows a user to access two types of calculators, an investment calculator 
 and a home loan calculator.
